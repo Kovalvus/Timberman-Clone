@@ -11,3 +11,5 @@ Then to play just launch timberman.py, if you downloaded everything correctly a 
 Click on "Start Game" to start the game, the controls are **A** and **S**
 
 To close the game click the "Quit Game" button or just close all windows that the game launched manually in Windows
+
+Enjoy

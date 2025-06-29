@@ -1,0 +1,41 @@
+przed skalowaniem:
+obstacle: 200x40
+tree: 133x200
+character: 400x400
+full tree: ~133x800
+
+wysokosci drzewa: (od najnizej polozonego do najwyzej)
+600
+400
+200
+0
+-200
+-400
+
+wysokosci przeszkod:
+100
+300
+500
+700
+_______________________________________________________________________________
+po skalowaniu:
+obstacle: 133x27
+tree: 88x133
+character: 266x266
+full tree: 88x798
+
+wysokosci drzewa: (od najnizej polozonego do najwyzej)
+667
+533
+400
+267
+133
+0
+
+wysokosci przeszkod:
+50
+185
+320
+455
+590
+725
